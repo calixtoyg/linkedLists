@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../testing/inc/Employee.h
+
+C:/Users/yasir/Desktop/linkedlist_cascara_v5/inc/LinkedList.h
+
+C:/Users/yasir/Desktop/linkedlist_cascara_v5/src/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+inc/Employee.h
+-
+../testing/inc/main_test.h
+C:/Users/yasir/Desktop/linkedlist_cascara_v5/testing/inc/main_test.h
+../inc/LinkedList.h
+C:/Users/yasir/Desktop/linkedlist_cascara_v5/inc/LinkedList.h
+
+C:/Users/yasir/Desktop/linkedlist_cascara_v5/testing/inc/main_test.h
+
